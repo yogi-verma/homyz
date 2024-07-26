@@ -1,0 +1,20 @@
+.c1-container{
+    gap: 1rem;
+    display: flex;
+    row-gap: 2rem;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+.c1-container>img{
+    width: 9rem;
+}
+
+/* Media Query */
+
+@media (max-width: 1021px){
+
+
+}
